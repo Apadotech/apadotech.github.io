@@ -104,6 +104,7 @@ body {
   display: block;
 }
 </style>
+<script async src="https://mowplayer.com/dist/player.js"></script>
 </head>
 <body>
 
