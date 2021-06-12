@@ -39,21 +39,6 @@ with blog, chat, video-sharing app. Latest update about Apado!" />
 <meta name="a.validate.01" content="c572f0cd2bd56bc3d30907ffa3e128d108b0" />
 <meta content="noindex" name="robots"><link href="https://i.ibb.co/9bj5R7g/Golden-Pro.png" rel="icon" type="image/x-icon">
 <script type="text/javascript" src="https://s.skimresources.com/js/191516X1662982.skimlinks.js"></script>
-<script src="https://www.w3counter.com/tracker.js?id=138002"></script>
-<script type="text/javascript">
-  var _gauges = _gauges || [];
-  (function() {
-    var t   = document.createElement('script');
-    t.type  = 'text/javascript';
-    t.async = true;
-    t.id    = 'gauges-tracker';
-    t.setAttribute('data-site-id', '60c080fab444444c8eaa8daf');
-    t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
-    t.src = 'https://d2fuc4clr7gvcn.cloudfront.net/track.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(t, s);
-  })();
-</script>
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -119,7 +104,6 @@ body {
   display: block;
 }
 </style>
-<script async src="https://mowplayer.com/dist/player.js"></script>
 </head>
 <body>
 
