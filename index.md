@@ -303,39 +303,6 @@ Apado will be the best app in the history of social media.</h3>
 <div id="awn-z4552371"></div>
 <br>
 <br>
-<h1 style="color:purple;">Development team</h1>
-<br>
-<br>
-<hr>
-<br>
-<br>
-<h2 style="color:green;">Small Pig reporter</h2>
-<br>
-<br>
-<h3 style="color;green;">Small Pig reporter is the main-founder of Apado. Small Pig reporter also the head of Apado development. 
-He the one who grouped Apado on discord in January of 2021. He is the one who founded of Apado idea. He also the CEO of Apado.
-Small Pig reporter is one of the designer of Apado. He designed the chat section of Apado. Small Pig reporter is the head of 
-web development too. He do mostly of Apado website code. He also an app developer. He worked on Apado app code as well. He also 
-the one who decided to leave discord due to many reasons. He also a translator of Apado from Chinese to English.
-<br>
-<br>
-Small Pig reporter is a Malaysian. Small Pig reporter is a Chinese. Small Pig reporter know English, Chinese and a little of 
-Malay. Small Pig reporter is a citizen of Pahang.  He is good at Chinese and English. He also a Youtubers. https://youtube.com/c/SmallPigreporter</h3>
-<br>
-<br>
-Email: smallpigannouncenews@gmail.com</h3>
-<br>
-<br>
-<h2 style="color:#1321F5;">Wakjawa</h2>
-<br>
-<br>
-<h3 style="color:#1321F5;">Wakjawa is one of the founder of Apado. Wakjawa is the designer and marketer of Apado. Wakjawa is the designer of Apado logo. Wakjawa also helped Apado
-marketing details. Wakjawa also the one who joined the development from the start.
-<br>
-<br>
-Wakjawa also a Malaysian. Wakjawa is the biggest in the team. Wakjawa is a Malay. He lives in Johor. He know Malay and English. He also many show hardcon fan.</h3>
-<br>
-<br>
 <hr>
 <br>
 <br>
