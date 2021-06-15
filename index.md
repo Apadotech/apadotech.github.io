@@ -301,8 +301,7 @@ Apado will be the best app in the history of social media.</h3>
 <br>
 <a href="https://apadotech.github.io/q&a.html">Q&A</a>
 <div id="awn-z4552371"></div>
-<br>
-<br>
+
 <hr>
 <br>
 <br>
