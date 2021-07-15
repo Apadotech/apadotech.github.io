@@ -364,3 +364,18 @@ Apado will be the best app in the history of social media.</h3>
   logged_in_greeting="Hi! How can we help you?"
   logged_out_greeting="Hi! How can we help you?">
       </div>
+        <!-- Default Statcounter code for ApadoTech https://apadotech.github.io -->
+<script type="text/javascript">
+var sc_project=12566306; 
+var sc_invisible=1; 
+var sc_security="4a92a6c4"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12566306/0/4a92a6c4/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+<a href="https://statcounter.com/p12566306/?guest=1">View My Stats</a>
+        </body>
