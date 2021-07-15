@@ -2,6 +2,15 @@
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2XTTB7H4YB"></script>
   <meta content="noindex" name="robots"><link href="https://i.ibb.co/9bj5R7g/Golden-Pro.png" rel="icon" type="image/x-icon">
+  <script>
+  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
+  d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=
+  s.getElementsByTagName(q)[0];q.parentNode.insertBefore(d,q)}(window,document
+  ,'script','_gs');
+
+  _gs('GSN-934073-G');
+  _gs('set', 'anonymizeIP', true);
+</script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
