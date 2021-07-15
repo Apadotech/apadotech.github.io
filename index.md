@@ -8,7 +8,19 @@
   gtag('js', new Date());
 
   gtag('config', 'G-K376CYE3N1');
-</script></head>
+</script>
+  <!-- Begin Inspectlet Asynchronous Code -->
+<script type="text/javascript">
+(function() {
+window.__insp = window.__insp || [];
+__insp.push(['wid', 1263835817]);
+var ldinsp = function(){
+if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js?wid=1263835817&r=' + Math.floor(new Date().getTime()/3600000); var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+setTimeout(ldinsp, 0);
+})();
+</script>
+<!-- End Inspectlet Asynchronous Code -->
+  </head>
 <head><script data-ad-client="ca-pub-1562362109894661" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head> 
 <head> 
 <!-- Start of Woopra Code -->
