@@ -11,6 +11,10 @@
 </script></head>
 <head><script data-ad-client="ca-pub-1562362109894661" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head> 
 <head> 
+<a title="Real Time Web Analytics" href="http://clicky.com/101325698"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101325698);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101325698ns.gif" /></p></noscript>
 <script>
   !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
   d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=
