@@ -11,10 +11,27 @@
 </script></head>
 <head><script data-ad-client="ca-pub-1562362109894661" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head> 
 <head> 
-<a title="Real Time Web Analytics" href="http://clicky.com/101325698"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101325698);</script>
-<script async src="//static.getclicky.com/js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101325698ns.gif" /></p></noscript>
+<!-- Start of Woopra Code -->
+<script>
+  (function(){
+    var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call","trackForm","trackClick"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+  })("woopra");
+
+  woopra.config({
+      domain: 'apadotech.github.io'
+  });
+  woopra.track();
+</script>
+<!-- End of Woopra Code -->
+  <script>
+  /* Below is an example of a "payment" event that is sent when 
+     you process a payment for a customer. */
+
+  woopra.track("payment", {
+    amount: "49.95",
+    currency: "USD"
+  });
+</script>
 <script>
   !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
   d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=
